@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "description": "Buy groceries",
-    "status": "todo",
-    "createdAt": "2025-02-16T11:07:27.929Z",
-    "updatedAt": "2025-02-16T11:07:27.929Z"
+    "description": "belajar javascript",
+    "status": "in-progress",
+    "createdAt": "2025-02-16T13:46:01.781Z",
+    "updateAt": "2025-02-16T13:47:55.826Z"
   }
 ]
